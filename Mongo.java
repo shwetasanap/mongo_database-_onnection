@@ -5,7 +5,7 @@ import com.mongodb.DBObject;
 import com.mongodb.Mongo;
 
 import java.net.UnknownHostException;
-
+//mongo db connection
 import com.mongodb.DB;
 public class Mongo {
 
